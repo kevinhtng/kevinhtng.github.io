@@ -3,7 +3,7 @@
 This is a simple, custom-built personal link hub website inspired by services like [Linktree](https://linktr.ee/). Instead of relying on a third-party platform, I created and control the content, while hosting it via GitHub Pages.
 
 ## Live Demo
-You can view the live site here: [Here](https://kevinhtng.github.io/)
+You can view the live site [Here](https://kevinhtng.github.io/)
 
 ## Features
 - **Custom design**: Dark theme with bold colors, hover effects, and a floating banner for personality.
